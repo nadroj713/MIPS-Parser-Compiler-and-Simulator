@@ -1,0 +1,2 @@
+A program that parses a program, records the tokens and symbols used within, checks syntax for correctness, and them simulates the program being reducted to assembly language 
+before simulating the logic itself. Capable of a multilevel stack, and the core MIPS instructions. 
